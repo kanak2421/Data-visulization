@@ -1,0 +1,40 @@
+/* quick reset */
+
+* { 
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+
+ body {
+ 	font-size: 8px;
+ 	font-family: 'Arial', 'helvetica', sans-serif;
+}
+
+ .hidden {
+ 	  display: none;
+}
+
+.data-graphic {
+	 border: thin dashed blue;
+	 width: 160px;
+}
+* { 
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+
+ body {
+ 	font-size: 8px;
+ 	font-family: 'Arial', 'helvetica', sans-serif;
+}
+
+ .hidden {
+ 	  display: none;
+}
+
+.data-graphic {
+	 border: thin dashed pink;
+	 width: 160px;
+}
